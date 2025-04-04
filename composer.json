@@ -4,6 +4,7 @@
     "keywords": ["flarum", "douban"],
     "type": "flarum-extension",
     "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "flarum/core": "^1.0.0",
         "guzzlehttp/guzzle": "^7.0"
