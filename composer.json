@@ -5,9 +5,11 @@
     "type": "flarum-extension",
     "license": "MIT",
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "flarum/core": "^1.0.0",
-        "guzzlehttp/guzzle": "^7.0"
+        "guzzlehttp/guzzle": "^7.0",
+        "doubanapi/flarum-ext-douban": "*"
     },
     "authors": [
         {
