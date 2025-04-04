@@ -6,6 +6,12 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/doubanapi/flarum-ext-douban.git"
+        }
+    ],
     "require": {
         "flarum/core": "^1.0.0",
         "guzzlehttp/guzzle": "^7.0"
